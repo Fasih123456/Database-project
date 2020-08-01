@@ -8,7 +8,7 @@ def myClick():
     myLabelfunction = label(root, text="Look! I clicked a button!!")
     myLabelfunction.pack()
 
-#You cannot do a pack and grid or grid and pack
+#You cannot do a pack and grid or grid and pack, except for some circumstances
 
 # creating a label widget
 mylabel1 = Label(root, text="Hello World!")
